@@ -8,3 +8,8 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: draft
+  type: boolean
+  label: draft
+  description: Turn this on (set to true) if you don't want this to be publicly published
+    yet.
