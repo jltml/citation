@@ -1,6 +1,6 @@
 +++
 categories = []
-date = ""
+date = 2020-12-16T17:00:00Z
 draft = true
 tags = []
 title = "test post again"
