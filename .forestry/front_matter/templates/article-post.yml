@@ -8,8 +8,11 @@ fields:
 - type: datetime
   name: date
   label: date
-- name: draft
-  type: boolean
-  label: draft
-  description: Turn this on (set to true) if you don't want this to be publicly published
-    yet.
+- name: tags
+  type: tag_list
+  default: []
+  label: tags
+- name: categories
+  type: tag_list
+  default: []
+  label: categories
