@@ -1,6 +1,38 @@
 baseURL = "https://citation.jltml.me/"
 languageCode = "en-us"
 title = "The Citation"
-theme = "hugo-theme-slim"
+theme = "hugo-PaperMod"
+[minify]
+  minifyOutput = true
 [params]
-  Summary = true
+  defaultTheme = 'auto'
+  disableThemeToggle = true
+  # comments = true
+  disableSpecial1stPost = true
+  [[menu.main]]
+    identifier = "categories"
+    name = "categories"
+    url = "/categories/"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "tags"
+    name = "tags"
+    url = "/tags/"
+    weight = 20
+
+  [[menu.main]]
+    identifier = "example"
+    name = "example.org"
+    url = "https://example.org"
+    weight = 30
+
+[params.homeInfoParams]
+  title = "***The Citation***"
+  content = "STA's school newspaper"
+  [[params.profileMode.buttons]]
+    name = "Posts"
+    url = "posts"
+  [[params.profileMode.buttons]]
+    name = "Tags"
+    url = "tags"
