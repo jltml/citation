@@ -1,4 +1,6 @@
 baseURL = "https://citation.jltml.me/"
 languageCode = "en-us"
-title = "The Citation test"
+title = "The Citation"
 theme = "hugo-theme-slim"
+[params]
+  Summary = true
