@@ -1,3 +1,3 @@
 [submodule "slim"]
-	path = themes/slim
+	path = themes/hugo-theme-slim
 	url = https://github.com/zhe/hugo-theme-slim

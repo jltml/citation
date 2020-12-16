@@ -1,4 +1,4 @@
-baseURL = "https://sta-citation.netlify.app/"
+baseURL = "https://citation.jltml.me/"
 languageCode = "en-us"
 title = "The Citation test"
 theme = "slim"
