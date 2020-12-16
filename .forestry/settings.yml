@@ -9,8 +9,6 @@ sections:
   label: Pages
   create: all
   match: "*"
-- type: heading
-  label: Posts
 - type: directory
   path: content/posts
   label: Posts
