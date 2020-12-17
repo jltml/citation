@@ -2,10 +2,8 @@
 title: "My First Post"
 date: 2020-12-15T22:24:35-06:00
 draft: false
-categories:
-- test-category
-tags:
-- test-tag-again
+sections:
+- test-section
 author: "Me"
 cover:
   image: "/uploads/washington-mountains.jpeg"
