@@ -5,8 +5,8 @@ image = "/uploads/dsc06760.jpeg"
 tags = ["test-tag-again"]
 title = "another test post"
 [cover]
-caption = ""
-image = ""
+caption = "test caption"
+image = "/uploads/dsc06760.jpeg"
 
 +++
 edrtfyguhijoubyvtcyfxtcytvuy**ytuygihbyvtcyr**
