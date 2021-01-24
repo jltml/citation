@@ -5,9 +5,18 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content
+  label: Pages
+  create: all
+  match: "**/*"
+- type: directory
   path: content/posts
   label: Posts
   create: all
+  match: "**/*"
+- type: document
+  path: config.toml
+  label: Config
   match: "**/*"
 upload_dir: static/uploads
 public_path: "/uploads"
