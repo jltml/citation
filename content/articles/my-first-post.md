@@ -3,8 +3,8 @@ title: "My First Post"
 date: 2020-12-15T22:24:35-06:00
 draft: false
 sections:
-- test-section
-author: "Me"
+  - test-section
+author: "Jack MapelLentz"
 cover:
   image: "/uploads/washington-mountains.jpeg"
   caption: "test caption"

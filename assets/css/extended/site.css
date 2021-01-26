@@ -1,0 +1,18 @@
+/* Custom CSS for the PaperMod theme */
+/* by Jack MapelLentz (https://jltml.me) */
+
+@include "fonts.css";
+
+/*
+.logo {
+  font-family: IBM-Plex-Serif;
+}
+
+.entry-cover, .entry-cover * {
+  max-height: 250px;
+}
+
+.entry-cover * {
+  object-fit: cover;
+}
+*/

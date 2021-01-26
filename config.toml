@@ -5,17 +5,28 @@ theme = "hugo-PaperMod"
 [minify]
   minifyOutput = true
 [taxonomies]
-  section = "sections"
+  sections = "sections"
+  issue = "issues"
+[permalinks]
+  articles = "/:title/"
 [params]
   defaultTheme = 'auto'
   disableThemeToggle = true
   disableSpecial1stPost = true
-  ShowReadingTime = true
+  ShowReadingTime = false
+  [params.homeInfoParams]
+    title = "*The Citation*"
+    content = "STA's school newspaper, est. 2020."
   [[menu.main]]
     identifier = "sections"
     name = "sections"
     url = "/sections/"
     weight = 10
+  [[menu.main]]
+    identifier = "issues"
+    name = "issues"
+    url = "/issues/"
+    weight = 20
   [[menu.main]]
     identifier = "archive"
     name = "archive"
