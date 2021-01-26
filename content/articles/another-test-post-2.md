@@ -1,6 +1,5 @@
 +++
 date = 2021-01-16T06:00:00Z
-image = "/uploads/dsc06760.jpeg"
 title = "another test post 2"
 sections = [ "new" ]
 issues = [ "test issue" ]
