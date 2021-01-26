@@ -12,10 +12,16 @@ fields:
   type: tag_list
   default: []
   label: tags
-- name: categories
+- name: sections
   type: tag_list
   default: []
-  label: categories
+  label: section
+  description: The section into which the article goes (can accept multiple values)
+- name: issues
+  type: tag_list
+  default: []
+  label: issue(s)
+  description: Category for the volume/issue/etc (can accept multiple values)
 - name: cover
   type: field_group
   config: {}
