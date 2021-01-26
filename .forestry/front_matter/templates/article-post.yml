@@ -37,6 +37,3 @@ fields:
       required: false
     label: cover image caption
   label: cover
-pages:
-- content/posts/another-test-post.md
-- content/posts/another-test-post.md
