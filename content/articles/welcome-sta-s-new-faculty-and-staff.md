@@ -9,8 +9,6 @@ caption = ""
 image = ""
 
 +++
-<h3>
-  From music to ice cream, these are their favorite things.
-</h3>
+### From music to ice cream, these are their favorite things.
 
 <iframe src="https://jltml.me/citation-new-teacher-thing/"></iframe>
