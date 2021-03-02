@@ -8,6 +8,11 @@ fields:
 - type: datetime
   name: date
   label: date
+- name: author
+  type: text
+  config:
+    required: false
+  label: author
 - name: sections
   type: tag_list
   default: []
@@ -34,4 +39,5 @@ fields:
     label: cover image caption
   label: cover
 pages:
+- content/articles/welcome-sta-s-new-faculty-and-staff.md
 - content/articles/welcome-sta-s-new-faculty-and-staff.md
