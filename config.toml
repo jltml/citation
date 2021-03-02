@@ -17,7 +17,7 @@ theme = "hugo-PaperMod"
   comments = false
   [params.homeInfoParams]
     title = "*The Citation*"
-    content = "STA's school newspaper, est. 2020."
+    content = "Saint Thomas Academy's school newspaper"
   [[menu.main]]
     identifier = "sections"
     name = "sections"

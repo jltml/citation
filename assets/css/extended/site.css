@@ -14,3 +14,7 @@ body {
 .entry-cover * {
   object-fit: cover;
 }
+.header, .header * {
+  background-color: #003DA5;
+  color: #FFFFFF;
+}
