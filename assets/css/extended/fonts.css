@@ -1,66 +1,47 @@
 /* Fonts found in static/fonts */
 
-/* IBM Plex Sans */
-/* There are more files in /fonts/IBM-Plex-Sans, but they're not yet referenced here */
+/* Brandon Grotesque */
+/* Files in /fonts/Brandon-Grotesque (or, if developing the site (so not when built) /static/fonts/Brandon-Grotesque) */
 @font-face {
-  font-family: IBM-Plex-Sans;
-  src: url(./../../../fonts/IBM-Plex-Sans/IBMPlexSans-Regular.otf); }
+  font-family: Brandon-Grotesque;
+  src: url(/fonts/Brandon-Grotesque/Brandon_reg.otf); }
 @font-face {
-  font-family: IBM-Plex-Sans;
-  src: url(./../../../fonts/IBM-Plex-Sans/IBMPlexSans-Bold.otf);
+  font-family: Brandon-Grotesque;
+  src: url(/fonts/Brandon-Grotesque/Brandon_bld.otf);
   font-weight: bold; }
 @font-face {
-  font-family: IBM-Plex-Sans;
-  src: url(./../../../fonts/IBM-Plex-Sans/IBMPlexSans-Italic.otf);
+  font-family: Brandon-Grotesque;
+  src: url(/fonts/Brandon-Grotesque/Brandon_it.otf);
   font-style: italic; }
 @font-face {
-  font-family: IBM-Plex-Sans;
-  src: url(./../../../fonts/IBM-Plex-Sans/IBMPlexSans-BoldItalic.otf);
+  font-family: Brandon-Grotesque;
+  src: url(/fonts/Brandon-Grotesque/Brandon_bld_it.otf);
   font-weight: bold;
   font-style: italic; }
 @font-face {
-  font-family: IBM-Plex-Sans;
-  src: url(./../../../fonts/IBM-Plex-Sans/IBMPlexSans-Light.otf);
+  font-family: Brandon-Grotesque;
+  src: url(/fonts/Brandon-Grotesque/Brandon_light.otf);
   font-weight: 300; }
 @font-face {
-  font-family: IBM-Plex-Sans;
-  src: url(./../../../fonts/IBM-Plex-Sans/IBMPlexSans-LightItalic.otf);
+  font-family: Brandon-Grotesque;
+  src: url(/fonts/Brandon-Grotesque/Brandon_light_it.otf);
   font-weight: 300;
   font-style: italic; }
 @font-face {
-  font-family: IBM-Plex-Sans;
-  src: url(./../../../fonts/IBM-Plex-Sans/IBMPlexSans-ExtraLight.otf);
-  font-weight: 200; }
-@font-face {
-  font-family: IBM-Plex-Sans;
-  src: url(./../../../fonts/IBM-Plex-Sans/IBMPlexSans-ExtraLightItalic.otf);
-  font-weight: 200;
-  font-style: italic; }
-@font-face {
-  font-family: IBM-Plex-Sans;
-  src: url(./../../../fonts/IBM-Plex-Sans/IBMPlexSans-Thin.otf);
+  font-family: Brandon-Grotesque;
+  src: url(/fonts/Brandon-Grotesque/Brandon_thin.otf);
   font-weight: 100; }
 @font-face {
-  font-family: IBM-Plex-Sans;
-  src: url(./../../../fonts/IBM-Plex-Sans/IBMPlexSans-ThinItalic.otf);
+  font-family: Brandon-Grotesque;
+  src: url(/fonts/Brandon-Grotesque/Brandon_thin_it.otf);
   font-weight: 100;
   font-style: italic; }
-
-/* IBM Plex Serif */
-/* There are more files in /fonts/IBM-Plex-Serif, but they're not yet referenced here */
 @font-face {
-  font-family: IBM-Plex-Serif;
-  src: url(./../../../fonts/IBM-Plex-Serif/IBMPlexSerif-Regular.otf); }
+  font-family: Brandon-Grotesque;
+  src: url(/fonts/Brandon-Grotesque/Brandon_blk.otf);
+  font-weight: 900; }
 @font-face {
-  font-family: IBM-Plex-Serif;
-  src: url(./../../../fonts/IBM-Plex-Serif/IBMPlexSerif-Bold.otf);
-  font-weight: bold; }
-@font-face {
-  font-family: IBM-Plex-Serif;
-  src: url(./../../../fonts/IBM-Plex-Serif/IBMPlexSerif-Italic.otf);
-  font-style: italic; }
-@font-face {
-  font-family: IBM-Plex-Serif;
-  src: url(./../../../fonts/IBM-Plex-Serif/IBMPlexSerif-BoldItalic.otf);
-  font-weight: bold;
+  font-family: Brandon-Grotesque;
+  src: url(/fonts/Brandon-Grotesque/Brandon_blk_it.otf);
+  font-weight: 900;
   font-style: italic; }

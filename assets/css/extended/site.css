@@ -3,9 +3,8 @@
 
 @include "fonts.css";
 
-/*
-.logo {
-  font-family: IBM-Plex-Serif;
+body {
+  font-family: Brandon-Grotesque;
 }
 
 .entry-cover, .entry-cover * {
@@ -15,4 +14,3 @@
 .entry-cover * {
   object-fit: cover;
 }
-*/
