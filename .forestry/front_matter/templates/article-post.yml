@@ -33,3 +33,5 @@ fields:
       required: false
     label: cover image caption
   label: cover
+pages:
+- content/articles/welcome-sta-s-new-faculty-and-staff.md
