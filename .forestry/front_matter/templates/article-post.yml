@@ -38,3 +38,5 @@ fields:
       required: false
     label: cover image caption
   label: cover
+pages:
+- content/articles/yet-another-test-post.md
