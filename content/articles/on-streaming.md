@@ -2,7 +2,7 @@
 author = "Mattias Gebresilassie"
 date = 2021-03-24T05:00:00Z
 issues = []
-sections = []
+sections = ["Arts & Entertainment"]
 title = "The Rise of Streaming"
 [cover]
 caption = ""
