@@ -14,7 +14,7 @@ theme = "hugo-PaperMod"
   disableThemeToggle = true
   disableSpecial1stPost = true
   ShowReadingTime = false
-  comments = false
+  comments = true
   [params.homeInfoParams]
     title = "*The Citation*"
     content = "Saint Thomas Academy's school newspaper"

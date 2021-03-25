@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2020-12-15T22:24:35-06:00
-draft: false
+draft: true
 sections:
   - test-section
 author: "Jack MapelLentz"
