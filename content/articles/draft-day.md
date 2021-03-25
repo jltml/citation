@@ -6,7 +6,7 @@ sections = ["Sports"]
 title = "Draft Day"
 [cover]
 caption = ""
-image = ""
+image = "/uploads/gettyimages-1188139384-scaled-e1599802357508-1024x681.jpg"
 
 +++
 After the shocking Super Bowl LV that left many fans unhappy, the next big event for football fans is the NFL Draft. This year will be one to remember, as the draft class is loaded with talent on both sides of the ball. The obvious #1 overall pick is Trevor Lawrence, a senior from Clemson University. While this should be a great pick for the 1-15 Jacksonville Jaguars, as one of their missing pieces in their offense is an elite quarterback, it may be a disappointment to Gardner Minsew fans. Unfortunately for them, Trevor’s arrival will mean the end of the Gardner Minshew Experience
