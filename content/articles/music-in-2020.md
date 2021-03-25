@@ -1,7 +1,7 @@
 +++
 author = "Michael Bagley"
 date = 2021-03-24T05:00:00Z
-issues = []
+issues = ["Arts & Entertainment"]
 sections = []
 title = "Music in 2020"
 [cover]
