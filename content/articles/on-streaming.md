@@ -3,7 +3,7 @@ author = "Mattias Gebresilassie"
 date = 2021-03-24T05:00:00Z
 issues = []
 sections = []
-title = "On Streaming"
+title = "The Rise of Streaming"
 [cover]
 caption = ""
 image = ""
