@@ -6,7 +6,7 @@ sections = ["Sports"]
 title = "From Stick-Figure to College Football Star — The Story of the “Slim Reaper”"
 [cover]
 caption = ""
-image = ""
+image = "/uploads/heisman-pic.jpg"
 
 +++
 Standing at 6-foot-1 and weighing a mere 175 pounds, Devonta Smith is not your average college football player. In fact, “Smitty” looks more like a cross country runner than a college football superstar. But that’s exactly what he is: the best player in college football.
