@@ -2,7 +2,7 @@
 author = "Jordan Young"
 date = 2021-03-24T05:00:00Z
 issues = []
-sections = []
+sections = ["Sports"]
 title = "Upgrade Unlocked: The Next Level for STA's Athletic Commits"
 [cover]
 caption = ""
