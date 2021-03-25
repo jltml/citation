@@ -23,11 +23,11 @@ theme = "hugo-PaperMod"
     name = "sections"
     url = "/sections/"
     weight = 10
-  [[menu.main]]
-    identifier = "issues"
-    name = "issues"
-    url = "/issues/"
-    weight = 20
+  # [[menu.main]]
+  #   identifier = "issues"
+  #   name = "issues"
+  #   url = "/issues/"
+  #   weight = 20
   [[menu.main]]
     identifier = "archive"
     name = "archive"
