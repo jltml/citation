@@ -6,7 +6,7 @@ sections = []
 title = "Music in 2020"
 [cover]
 caption = ""
-image = ""
+image = "/uploads/image-for-music-articles.jpg"
 
 +++
 In a year packed full of high ups and deep lows, it only made sense that music would follow suit. Sensational albums such as The Weeknd’s “After Hours” and Freddie Gibbs’ “Alfredo” were the benchmarks for music in 2020, giving us some of the most memorable and quotable songs of the year. In true Grammy fashion, though, these top albums received only one nomination combined (“Alfredo” - Rap Album of the Year).
