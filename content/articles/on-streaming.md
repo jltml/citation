@@ -6,7 +6,7 @@ sections = ["Arts & Entertainment"]
 title = "The Rise of Streaming"
 [cover]
 caption = ""
-image = ""
+image = "/uploads/streaming-article-picture.jpg"
 
 +++
 For the typical American, leisure is a sacred time set aside for the most entertaining and satisfying activities. Getting off work on a Friday, going home, and laying on the couch to watch your favorite TV show sounds like bliss, a simple joy everyone understands. It is no wonder then that American entertainment has been a leading influence on media platforms and content globally for over a century.
