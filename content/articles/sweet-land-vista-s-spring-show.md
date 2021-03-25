@@ -2,7 +2,7 @@
 author = "Chris Peters"
 date = 2021-03-24T05:00:00Z
 issues = []
-sections = ["Arts & Enterntainment", "Student Life"]
+sections = ["Arts & Entertainment", "Student Life"]
 title = "Sweet Land: ViSTA's Spring Show"
 [cover]
 caption = ""
@@ -19,7 +19,7 @@ VISTA will be the first high school to receive the rights for this beautiful sho
 
 VISTA Productions plans to film this performance outside, something never done before in its history. Talking to students who were involved in our award-winning fall production of _The Curious Incident of the Dog in the Night-Time,_ they all agreed that working in a film shoot production was an amazing opportunity.
 
-  
+
 Upon reflection, Ethan Hiew stated that “acting in front of a camera instead of a live audience is a different experience. There’s something special about a live audience that’s different than the camera and vice versa. Even though there is less pressure in front of a camera because you can do retakes, the idea of your actions being recorded permanently into the camera creates a different magical experience much similar to but also different than a live audience.”
 
 Adding the element of being on "location" will create even more new challenges. They plan on filming the performance on Visitation’s campus. Here, they will be challenged with managing lighting, sound, and continuity in an uncontrolled setting. We are excited and eager to further see the creative process of VISTA that we have all come to know and love.
