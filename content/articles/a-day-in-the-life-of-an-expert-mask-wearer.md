@@ -6,7 +6,7 @@ sections = ["Student Life"]
 title = "A Day in the Life of an Expert Mask-Wearer"
 [cover]
 caption = ""
-image = ""
+image = "/uploads/maskarticle.jpg"
 
 +++
 The usual hustle and bustle of Saint Thomas Academy looks much different this year, with faces being almost unrecognizable behind the blue medical face masks and cadet gators. From one-way hallways to a new schedule with three lunches, the Academy has seen some major changes from last year.
