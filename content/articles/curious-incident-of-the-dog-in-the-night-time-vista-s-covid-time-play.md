@@ -6,7 +6,7 @@ sections = ["Arts & Entertainment", "Student Life"]
 title = "Curious Incident of the Dog in the Night-Time: ViSTA's COVID-time Play"
 [cover]
 caption = ""
-image = ""
+image = "/uploads/dogandnight.jpg"
 
 +++
 How do you create a theatrical performance while following COVID-19 distancing guidelines? This past fall VISTA Theater tackled this challenge head-on. With great courage and fortitude, the company created and performed a production called _The Curious Incident of the Dog in the Night-Time._ Based on a 2003 mystery novel by Mark Haddon and adapted for the stage by Simon Stephens, the play explores the world through Christopher Boone, a boy on the autism spectrum. The character is on stage the entirety of the performance; however, he does not like to be touched by other individuals. This aspect of the performance naturally allowed the actors to maintain social distancing.
