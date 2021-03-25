@@ -7,13 +7,13 @@ body {
   font-family: Brandon-Grotesque;
 }
 
-.entry-cover, .entry-cover * {
+/* .entry-cover, .entry-cover * {
   max-height: 250px;
 }
 
 .entry-cover * {
   object-fit: cover;
-}
+} */
 .header, .header * {
   background-color: #003DA5;
   color: #FFFFFF;
