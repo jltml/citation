@@ -39,6 +39,7 @@ fields:
     label: cover image caption
   label: cover
 pages:
+- content/articles/draft-day.md
 - content/articles/music-in-2020.md
 - content/articles/on-streaming.md
 - content/articles/raising-the-red-white-and-blue-in-alberta.md
