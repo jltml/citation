@@ -2,7 +2,7 @@
 author = "Baker Reding"
 date = 2021-03-24T05:00:00Z
 issues = []
-sections = []
+sections = ["Sports"]
 title = "Sports: Where Positive Results are a Good Thing"
 [cover]
 caption = ""
