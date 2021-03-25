@@ -6,7 +6,7 @@ sections = ["Sports"]
 title = "Sports: Where Positive Results are a Good Thing"
 [cover]
 caption = ""
-image = ""
+image = "/uploads/sports-covid-picture.jpg"
 
 +++
 As the pandemic began, spring sports were in the hot seat. With schools shuttered, and students hunkered down for online classes to finish out the quarter, the chance to play a spring sport seemed far-fetched. After weeks of start dates and competition protocols being adjusted, seniors of the 2020 class received devastating news; they would never have the chance to play for the Cadets again.
