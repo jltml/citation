@@ -6,7 +6,7 @@ sections = ["Sports"]
 title = "Upgrade Unlocked: The Next Level for STA's Athletic Commits"
 [cover]
 caption = ""
-image = ""
+image = "/uploads/yenikasportscommitarticle.jpg"
 
 +++
 It was a tough year to be a high school athlete, but a tough year has never stopped the Cadets, and it didn’t stop us this year. Our senior class is one of the most athletically decorated classes in recent memory, and all of our athletes displayed the hard work, determination, and excellence that comes with being a Saint Thomas Academy athlete. As of this publication, here are Saint Thomas Academy’s athletic commitments from this past school year.
