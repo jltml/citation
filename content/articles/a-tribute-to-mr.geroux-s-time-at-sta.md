@@ -6,7 +6,7 @@ sections = ["Student Life", "Front Page"]
 title = "A Tribute to Mr. Geroux's Time at STA"
 [cover]
 caption = ""
-image = ""
+image = "/uploads/ofls6wpfpnpvsmjb92ld.webp"
 
 +++
 Few have given as much as Mr. John Geroux has to ensure the day-to-day functioning of Saint Thomas Academy. During the four years that I have attended STA, I have noted Mr. Geroux’s dedication to the technical side of the school.
