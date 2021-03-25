@@ -6,7 +6,7 @@ sections = ["Front Page"]
 title = "Remembering Mr. Mike Sjoberg"
 [cover]
 caption = ""
-image = ""
+image = "/uploads/533b8282094a4-image.jpg"
 
 +++
 On January 5th 2021, the STA community suffered the loss of a dear friend, educator, and coach, Mr. Mike Sjoberg. His legacy and presence on campus will forever be missed by those he taught, worked beside, and coached throughout his tenure. A man who took great pride in the development of his students, Mike led by example as a servant leader and mentor to those he became close with. “To develop boys into men of character” is the mission of Saint Thomas Academy and its staff. As an educator, administrator, and coach, Mike not only believed in this philosophy, but lived it each day he came to work.
