@@ -5,8 +5,8 @@ issues = []
 sections = ["Student Life", "Front Page"]
 title = "An Undefeated Tradition: The 113th Cadet Colonel"
 [cover]
-caption = ""
-image = ""
+caption = "Baker Reding after becoming the 113th Cadet Colonel"
+image = "/uploads/cadetcol.jpg"
 
 +++
 On December 2, 2020, the Corps of Cadets waited with bated breath to see who would be chosen as the 113th Cadet Colonel. Clad in their blouse coats and split into two gyms and the Court, the students knew that this was a ceremony like no other. The COVID-19 pandemic forced the students, the faculty, and the school itself to undergo drastic change, from the restructuring of classrooms to the dividers at the lunch tables. Despite this, however, the emblematic Cadet Colonel ceremony managed to persist.
