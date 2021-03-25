@@ -39,6 +39,7 @@ fields:
     label: cover image caption
   label: cover
 pages:
+- content/articles/a-deadly-problem-and-its-solution-policing-and-race-in-america.md
 - content/articles/draft-day.md
 - content/articles/from-stick-figure-to-college-football-star-the-story-of-the-slim-reaper.md
 - content/articles/music-in-2020.md
